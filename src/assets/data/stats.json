@@ -1,0 +1,8 @@
+{
+    "stats": [
+        { "number": 10000, "label": "Active Traders", "suffix": "+" },
+        { "number": 85, "label": "Success Rate", "suffix": "%" },
+        { "number": 500, "label": "Trading Signals", "suffix": "+" },
+        { "number": 2, "label": "Portfolio Value", "suffix": "M+" }
+    ]
+}

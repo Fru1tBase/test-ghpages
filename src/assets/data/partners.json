@@ -1,0 +1,10 @@
+{
+  "partners": [
+    { "name": "Microsoft", "logo": "https://placehold.co/200x80/252f3f/ffffff?text=Microsoft" },
+    { "name": "Google", "logo": "https://placehold.co/200x80/252f3f/ffffff?text=Google" },
+    { "name": "Amazon", "logo": "https://placehold.co/200x80/252f3f/ffffff?text=Amazon" },
+    { "name": "IBM", "logo": "https://placehold.co/200x80/252f3f/ffffff?text=IBM" },
+    { "name": "Intel", "logo": "https://placehold.co/200x80/252f3f/ffffff?text=Intel" },
+    { "name": "Oracle", "logo": "https://placehold.co/200x80/252f3f/ffffff?text=Oracle" }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "features": [
+    {
+      "title": "Join Our Discord Community",
+      "image": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/discord.svg",
+      "logo": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/discord.svg",
+      "items": [
+        "Connect with entrepreneurs",
+        "Daily money-making tips",
+        "Real-time support & advice",
+        "Exclusive community events"
+      ],
+      "link": "https://discord.gg/making-easy-money-938894329076940820"
+    },
+    {
+      "title": "Follow on X (Twitter)",
+      "image": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg",
+      "logo": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg",
+      "items": [
+        "Real-time market updates",
+        "Quick trading insights",
+        "Community discussions",
+        "Breaking financial news"
+      ],
+      "link": "https://twitter.com/obifrmmem"
+    },
+    {
+      "title": "Follow on Substack",
+      "image": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/substack.svg",
+      "logo": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/substack.svg",
+      "items": [
+        "In-depth financial guides",
+        "Weekly newsletter insights",
+        "Proven money strategies",
+        "Success stories & case studies"
+      ],
+      "link": "https://substack.com/@memobi?utm_campaign=profile&utm_medium=profile-page"
+    }
+  ]
+}

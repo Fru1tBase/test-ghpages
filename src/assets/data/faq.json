@@ -1,0 +1,55 @@
+{
+    "sections": [
+      {
+        "category": "General Questions",
+        "items": [
+          {
+            "question": "What is Making Easy Money?",
+            "answer": "Making Easy Money is a comprehensive stock trading education platform led by expert trader Obi. We provide proven trading strategies, real-time market analysis, and educational resources to help individuals achieve consistent profits in the stock market."
+          },
+          {
+            "question": "Who can benefit from our trading education?",
+            "answer": "Our platform is designed for traders of all levels - from complete beginners who want to learn the basics of stock trading to experienced traders looking to refine their strategies and improve their performance."
+          },
+          {
+            "question": "What makes our trading approach different?",
+            "answer": "We focus on proven, data-driven strategies that prioritize risk management and consistent profitability. Our approach combines technical analysis, market psychology, and disciplined trading principles that have been tested in real market conditions."
+          }
+        ]
+      },
+      {
+        "category": "Trading Services",
+        "items": [
+          {
+            "question": "What trading services do you offer?",
+            "answer": "We offer comprehensive trading education, live market analysis, trading signals, one-on-one mentorship, group coaching sessions, and access to our exclusive trading community where members share insights and strategies."
+          },
+          {
+            "question": "Do you provide trading signals?",
+            "answer": "Yes, we provide high-quality trading signals based on our proven analysis methods. Signals include entry points, stop losses, profit targets, and detailed reasoning behind each trade recommendation."
+          },
+          {
+            "question": "What markets do you focus on?",
+            "answer": "We primarily focus on US stock markets, including individual stocks, ETFs, and major indices. Our strategies are designed to work across different market conditions and timeframes."
+          }
+        ]
+      },
+      {
+        "category": "Membership & Pricing",
+        "items": [
+          {
+            "question": "How much does membership cost?",
+            "answer": "We offer flexible membership plans starting from basic education packages to premium mentorship programs. Contact us for detailed pricing information and to find the plan that best fits your trading goals and budget."
+          },
+          {
+            "question": "Is there a money-back guarantee?",
+            "answer": "All sales are final. We encourage you to review our course descriptions and free content to ensure our trading education aligns with your goals before making a purchase."
+          },
+          {
+            "question": "Can I cancel my membership anytime?",
+            "answer": "Membership terms vary by program. Please review the specific terms and conditions for your chosen membership level, or contact our support team for details about your particular subscription."
+          }
+        ]
+      }
+    ]
+  }

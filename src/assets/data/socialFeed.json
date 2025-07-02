@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "image": "https://placehold.co/300x300/252f3f/ffffff?text=Post+1",
+      "caption": "Exciting workshop on AI happening now! #MakingEasyMoney",
+      "date": "2024-01-15"
+    },
+    {
+      "image": "https://placehold.co/300x300/252f3f/ffffff?text=Post+2",
+      "caption": "Team building session at Making Easy Money #Innovation",
+      "date": "2024-01-14"
+    },
+    {
+      "image": "https://placehold.co/300x300/252f3f/ffffff?text=Post+3",
+      "caption": "Latest tech demo by our students #Technology",
+      "date": "2024-01-13"
+    },
+    {
+      "image": "https://placehold.co/300x300/252f3f/ffffff?text=Post+4",
+      "caption": "Celebrating innovation at its best! #Creativity",
+      "date": "2024-01-12"
+    },
+    {
+      "image": "https://placehold.co/300x300/252f3f/ffffff?text=Post+5",
+      "caption": "New equipment arrived! Ready for more experiments #Lab",
+      "date": "2024-01-11"
+    },
+    {
+      "image": "https://placehold.co/300x300/252f3f/ffffff?text=Post+6",
+      "caption": "Student projects showcase #Innovation",
+      "date": "2024-01-10"
+    }
+  ]
+}
